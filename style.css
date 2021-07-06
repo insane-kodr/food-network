@@ -154,7 +154,7 @@ section.hero {
 .about-me {
     background-image: url(images/shapes/7.png);
     background-size: cover;
-    background: rgb(252 143 73 / 10%);
+    background-color: rgb(252 143 73 / 10%);
     padding-top: 100px;
 }
 
